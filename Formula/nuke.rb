@@ -1,5 +1,5 @@
 class Nuke < Formula
-  desc "Quit every running macOS app from the command line"
+  desc "Quit every running macOS app from the command-line"
   homepage "https://github.com/rickhallett/nuke"
   url "https://github.com/rickhallett/nuke/archive/refs/tags/v0.1.0.tar.gz"
   sha256 "030a20a30b9b605aa24127ae4cedc11c1fd87173a56d61300314bd5183c56a5c"
